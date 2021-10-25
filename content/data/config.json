@@ -21,7 +21,8 @@
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Blog",
@@ -152,5 +153,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://friendly-artichoke-71a23.netlify.app"
 }
